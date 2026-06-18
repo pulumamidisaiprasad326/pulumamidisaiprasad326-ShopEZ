@@ -25,6 +25,11 @@ ShopEZ is a full-stack E-Commerce Web Application developed using React.js, Node
 - Manage Orders
 - Manage Users
 
+### Security Features
+- Password Encryption
+- JWT Authentication
+- Protected Routes
+
 ---
 
 ## 🛠️ Tech Stack
@@ -106,16 +111,6 @@ PORT=5000
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here later.
-
-- Home Page
-- Product Page
-- Cart Page
-- Admin Dashboard
-
----
 
 ## 🎯 Future Enhancements
 
